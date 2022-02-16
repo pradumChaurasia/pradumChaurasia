@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pradumChaurasia
 - 👀 I’m interested in Coding,web developing,gaming
-- 🌱 I’m currently learning Btech in Electronics
+- 🌱 I’m currently pursuing Btech , branch  Electronics Engineering
 
 <!---
 pradumChaurasia/pradumChaurasia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
