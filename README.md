@@ -1,4 +1,4 @@
-- 👋 Hi,my self pradumChaurasia
+- 👋 Hi,my self @pradumChaurasia
 - 👀 I’m interested in Coding,web developing
 - 🌱 Btech , branch  Electronics Engineering(2019-2023)
 
